@@ -22,6 +22,9 @@ proguard/
 app/build/
 
 .idea/*.xml
+.idea/caches/build_file_checksums.ser
 
 !.idea/gradle.xml
 !.idea/runConfigurations/*.xml
+
+google-services.json
